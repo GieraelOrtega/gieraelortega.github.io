@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Started"
-author: "Paul Le"
+author: "Gierael Ortega"
 categories: documentation
 tags: [documentation,sample]
 image: city-1.jpg
@@ -237,7 +237,7 @@ This theme is completely free and open source software. You may use it however y
 
 ### Creator
 
-#### Paul Le
+#### Gierael Ortega
 
 * [www.lenpaul.com](http://lenpaul.com)
 
